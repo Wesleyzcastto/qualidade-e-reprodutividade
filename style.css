@@ -1,0 +1,56 @@
+.title {
+    color: orange;
+    text-align: center;
+    font-style: italic;
+}
+
+.title2 {
+    color: rgb(21, 255, 0);
+    text-align: center;
+    font-style: italic;
+
+}
+
+.title3 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-style: italic;
+
+}
+
+.title4 {
+    color: rgb(212, 0, 255);
+    text-align: center;
+    font-style: italic;
+
+}
+
+.title5 {
+    color: rgb(234, 255, 0);
+    text-align: center;
+    font-style: italic;
+
+}
+
+.title6 {
+    color: rgb(0, 255, 242);
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    color: rgb(5, 5, 5);
+    font-size: large;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html {
+    background-color: rgb(245, 226, 175);
+    font-family: 'Times New Roman', Times, serif;
+}
